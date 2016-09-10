@@ -1,1 +1,2 @@
-first-lesson code.
+first-lesson code
+Hello world
